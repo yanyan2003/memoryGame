@@ -1,0 +1,15 @@
+.Game {
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  font-family: cursive;
+  font-size: 48px;
+}
+
+.Card {
+  float: left;
+  padding: 1rem;
+  margin: 1rem;
+}
